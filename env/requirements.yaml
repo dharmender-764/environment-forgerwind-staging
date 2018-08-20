@@ -16,6 +16,6 @@ dependencies:
 - name: irm-activiti7
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
-- name: iron-mountain-activiti-7-poc
+- name: irm-activiti7
   repository: http://jenkins-x-chartmuseum:8080
   version: 7.0.32
